@@ -1,8 +1,8 @@
-# COSC1187 - Interactive 3D Graphics & Animation
+# Third Year University Assignment
 By Quoc Tran (s3827826)
 
-
 ### How to build:
+    Install C/C++ Compiler and OpenGL Libraries
     Run the command 'bash build.sh'
 
 ### Controls:
