@@ -1,4 +1,4 @@
-# Third Year University Assignment
+## Third Year University Assignment
 By Quoc Tran (s3827826)
 
 ### How to build:
